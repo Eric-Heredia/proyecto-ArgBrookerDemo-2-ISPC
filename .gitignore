@@ -1,0 +1,17 @@
+# Ignorar archivos y directorios temporales generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar carpetas de entorno
+/env/
+
+# Ignorar archivos y directorios generados por Pytest
+.__pycache__/
+.pytest_cache/
+.coverage
+.cache
+.mypy_cache/
+.hypothesis/
+.pyc

@@ -1,0 +1,5 @@
+mysql-connector-python # mysql conector con python
+configparser
+colorama
+pytest
+# pip install -r requirements.txt
